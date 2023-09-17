@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+.main-live{
+    display: flex;
+}
+.left-aside{
+    width: 15%;
+    background-color: rebeccapurple;
+    height: 1000px;
+}
+.li-in{
+    width: 70%;
+    background-color: red;
+    height: 1000px;
+
+}
+.right-aside{
+    background-color: blue;
+    width: 25%;
+    height: 1000px;
+
+}
+.livee .ll{
+    width: 100%;
+    
+}
